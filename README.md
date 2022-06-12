@@ -26,9 +26,29 @@ You can use the website to generate badges: https://shields.io/
 
 
 ## My Github Status📊
+![Metrics](https://metrics.lecoq.io/Damantha126?template=classic&people=1&code=1&activity=1&repositories=1&introduction=1&stars=1&languages=1&followup=1&achievements=1&discussions=1&notable=1&isocalendar=1&lines=1&gists=1&pagespeed=1&stackoverflow=1&tweets=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.thanks=DamanthaOnline&people.shuffle=false&code.lines=12&code.load=100&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&notable.indepth=false&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&stackoverflow.user=15638039&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
+
+**** 
+ <!--<a href="https://github.com/Damantha126/handle-path-oz">
+    <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
+  </a>
+
+<br>
+<br>
+
+- ![Profile views](https://gpvc.arturio.dev/Damantha126)
+- [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
+  
 
 
 
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+
+<!--<p align="center">
+  <a href="https://github.com/Damantha126">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
+  </a>
+</p>-->
   <a href="https://github.com/Damantha126"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
