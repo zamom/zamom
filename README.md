@@ -1,4 +1,4 @@
-# Hey There! I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hey There! I am Zamo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
