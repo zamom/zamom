@@ -109,3 +109,7 @@ You can use the website to generate badges: https://shields.io/
 </div>
 <h3 align="center">Hey There! I am zamo</h1>
 <h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
+ 
+ <p align="center"> 
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="1000" />
+</p>
