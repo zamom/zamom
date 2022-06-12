@@ -104,9 +104,7 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" />
 </p>
 
-<div align="center"> 
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codenashwan)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 <h3 align="center">Hey There! I am zamo</h1>
