@@ -1,6 +1,9 @@
 # Hey There! I am zamo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
+
+<div align="center">
+ 
 </div>
 <h3 align="center">سڵاو 👋, من نەشوان عبدللە</h1>
 <h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
