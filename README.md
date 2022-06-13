@@ -82,7 +82,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](DamanthaJa:damanthaja@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:damanthajasinghe@outlook.com)                                                              
 
-#### **Visitors Count**  
+######## **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
 
 
@@ -110,6 +110,4 @@ You can use the website to generate badges: https://shields.io/
 <h3 align="center">Hey There! I am zamo</h1>
 <h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
  
- <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="1000" />
-</p>
+
