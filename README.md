@@ -106,4 +106,11 @@ You can use the website to generate badges: https://shields.io/
  
  
  
+[![discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+
+[![Github](https://skillicons.dev/icons?i=facebook)](https://skillicons.dev)
+
 [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
