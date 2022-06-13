@@ -1,4 +1,4 @@
-# Hey There! I am zamo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hey There! I am zamo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
 
 <hr>
 
