@@ -96,6 +96,7 @@ You can use the website to generate badges: https://shields.io/
 ![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
 
 
-[![Github](https://skillicons.dev/icons?i=activitypub)](https://skillicons.dev)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https)
+[![Discord](https://skillicons.dev/icons?i=discord)](https)
+[![Github](https://skillicons.dev/icons?i=github)](https)
+<a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
