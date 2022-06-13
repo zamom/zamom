@@ -139,4 +139,88 @@ You can use the website to generate badges: https://shields.io/
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media 3D Icons</title>
+    <link rel="stylesheet" href="3D-Icon.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
+
+</head>
+<body>
+    <ul class="list">
+        <li class="item">
+            <a href="#" target="_blank">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fab fa-twitter" aria-hidden="true"></span>
+            </a>
+        </li>
+
+        <li class="item">
+            <a href="#" target="_blank">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fab fa-linkedin-in" aria-hidden="true"></span>
+            </a>
+        </li>
+
+        <li class="item">
+            <a href="#" target="_blank">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fab fa-whatsapp" aria-hidden="true"></span>
+            </a>
+        </li>
+
+        <li class="item">
+            <a href="#" target="_blank">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fab fa-facebook" aria-hidden="true"></span>
+            </a>
+        </li>
+
+        <li class="item">
+            <a href="#" target="_blank">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fab fa-instagram" aria-hidden="true"></span>
+            </a>
+        </li>
+    </ul>
+</body>
+</html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
  
