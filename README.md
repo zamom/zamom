@@ -121,3 +121,21 @@ You can use the website to generate badges: https://shields.io/
   <i class="sz sz-instagram"></i>
   <i class="sz sz-twitter"></i>
 </div>
+
+
+ <div class="social">
+        <div class="social__container">
+            <div class="social__content">
+                <i class='bx bxl-facebook social__icon'></i>
+                <div class="social__tooltip-left facebook">Muhammad Fauzul Hanif</div>
+            </div>
+
+            <div class="social__content">
+                <i class='bx bxl-github social__icon'></i>
+                <div class="social__tooltip-top github">efzedel16</div>
+            </div>
+
+            <div class="social__content">
+                <i class='bx bxl-instagram social__icon'></i>
+                <div class="social__tooltip-bottom instagram">efzedel16</div>
+            </div>
