@@ -106,10 +106,4 @@ You can use the website to generate badges: https://shields.io/
  
  
  
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
- [![ae]([https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg))](https://skillicons.dev)
- 
+[![My Skills](https://skillicons.dev/icons?i=ea=light)](https://skillicons.dev)
