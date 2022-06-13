@@ -96,6 +96,6 @@ You can use the website to generate badges: https://shields.io/
 ![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
 
 
-[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Github](https://skillicons.dev/icons?i=activitypub)](https://skillicons.dev)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
