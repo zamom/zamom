@@ -16,8 +16,7 @@
                                                          
 
 
- ### **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
+
 
 ### Social media
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https)
@@ -32,4 +31,5 @@
 </p>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
-
+ ### **Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
