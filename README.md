@@ -19,9 +19,9 @@
 
 
 ### Social media
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https)
-[![Discord](https://skillicons.dev/icons?i=discord)](https)
-[![Github](https://skillicons.dev/icons?i=github)](https)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://zamom.github.io/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/chatagaming)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/zamom)
 
 
 <hr>
