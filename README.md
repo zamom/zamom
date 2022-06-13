@@ -106,4 +106,4 @@ You can use the website to generate badges: https://shields.io/
  
  
  
-[![My Skills](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
+[![Github](https://skillicons.dev/icons?i=Github)](https://skillicons.dev)
