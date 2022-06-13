@@ -116,3 +116,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 
+<div data-socialize class="filled rounded colored">
+  <i class="sz sz-facebook"></i>
+  <i class="sz sz-instagram"></i>
+  <i class="sz sz-twitter"></i>
+</div>
