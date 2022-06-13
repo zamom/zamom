@@ -115,5 +115,20 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
-<a href="#" class="fa fa-facebook"></a>
+</style>
+</head>
+  
+<body>
+    <center>
+        <h1>GeeksforGeeks</h1>
+        <h3>Social Media Icons</h3>
+  
+        <!-- Add font awesome icons -->
+        <a href="#" class="fa fa-linkedin"></a>
+        <a href="#" class="fa fa-pinterest"></a>
+        <a href="#" class="fa fa-reddit"></a>
+    </center>
+</body>
+  
+</html>
 
