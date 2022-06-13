@@ -5,13 +5,11 @@
 <h3 align="center">سڵاو 👋, من نەشوان عبدللە</h1>
 <h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
 
+</h3>
 
 <hr>
 
 <div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
