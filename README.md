@@ -106,4 +106,4 @@ You can use the website to generate badges: https://shields.io/
  
  
  
-[![ae](https://skillicons.dev/icons?i=ae=light)](https://skillicons.dev)
+[![ae](<img src="./icons/AfterEffects.svg" width="48">)](https://)
