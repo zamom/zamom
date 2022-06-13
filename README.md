@@ -108,13 +108,11 @@ You can use the website to generate badges: https://shields.io/
  
 [![discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
-[![Github](https://skillicons.dev/icons?i=facebook)](https://skillicons.dev)
+[![facebook](https://skillicons.dev/icons?i=facebook)](https://skillicons.dev)
 
 [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
-<a href="#" class="fa fa-facebook"></a>
 
-<li><i class="icon-2x icon-youtube-sign"></i><small></small></li>
