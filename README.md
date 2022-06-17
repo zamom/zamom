@@ -8,7 +8,7 @@
 <div align="center">
  
 </div>
-<h3 align="center"> Hey There👋 I am zamo</h1>
+<h3 align="center">Hello👋 I am zamo</h1>
 <h3 align="center" dir="rtl">Owner Chata GaminG  😜</h3>
 
                                                               
