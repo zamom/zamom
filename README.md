@@ -1,7 +1,8 @@
 <p align="center"> 
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 </p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=640&lines=Hi!+I'm+Kravon%2C+known+as+Jamien%230378+on+Discord;I'm+a+Discord+Bot+Developer+and+a+Game+Developer" alt="Typing SVG" /></a>
+<h3 align="center">About Me</h3>
 
 <hr>
 
